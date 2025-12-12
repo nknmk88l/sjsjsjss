@@ -9,9 +9,9 @@ local keylink = "群号943953581"
 
 local nameofthescript = "shenmiHuB"
 
-local whoisitmadeby = "名字"
+local whoisitmadeby = "神秘"
 
-local thenoteofthekey = "群号xxxx" 
+local thenoteofthekey = "群号943953581" 
 
 
 -- Instances:
